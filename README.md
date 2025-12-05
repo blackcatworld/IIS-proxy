@@ -14,6 +14,9 @@ Check: ✔ HTTP Redirect
 Click Next → Install
 Restart IIS if needed
 
+Enable Redirection:
+Application Request Routing -> Server Proxy Settings… nable Proxy
+
 Create Web Application in IIS
 
 ![img.png](content/img_webapp.png)
