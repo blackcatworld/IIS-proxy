@@ -1,6 +1,8 @@
 # IIS-proxy
-Install ARR
+Install Application Request Routing
 https://www.iis.net/downloads/microsoft/application-request-routing
+Install Rewrite
+https://www.iis.net/downloads/microsoft/url-rewrite
 
 Install HTTP Redirections
 Open Server Manager
